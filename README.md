@@ -24,9 +24,9 @@ Follow these steps to run the code:
 
 3. Enter the username and password on the login page:
 
-    Username: test, Password: password
-    Username: admin, Password: admin
-    Username: raqib, Password: password
+    - Username: test, Password: password 
+    - Username: admin, Password: admin 
+    - Username: raqib, Password: password
 
 4. If the login is successful, you can check the Inspect Element feature in your browser.
 
