@@ -1,0 +1,165 @@
+bcrypt
+fastapi
+  pydantic
+    annotated-types
+    pydantic_core
+      typing_extensions
+    typing_extensions
+  starlette
+    anyio
+      exceptiongroup
+      idna
+      sniffio
+  typing_extensions
+httptools
+jose
+matplotlib
+  contourpy
+    numpy
+  cycler
+  fonttools
+  kiwisolver
+  numpy
+  packaging
+  Pillow
+  pyparsing
+  python-dateutil
+    six
+mysql-connector-python
+  protobuf
+opencv-python
+  numpy
+  numpy
+  numpy
+  numpy
+pandas
+  numpy
+  python-dateutil
+    six
+  pytz
+  tzdata
+passlib
+pip
+pipdeptree
+pipreqs
+  docopt
+  yarg
+    requests
+      certifi
+      charset-normalizer
+      idna
+      urllib3
+pyinstaller
+  altgraph
+  pefile
+  pyinstaller-hooks-contrib
+  pywin32-ctypes
+  setuptools
+PyJWT
+PyQt5
+  PyQt5-Qt5
+  PyQt5-sip
+PySide2
+  shiboken2
+python-dotenv
+python-jose
+  ecdsa
+    six
+  pyasn1
+  rsa
+    pyasn1
+python-multipart
+PyYAML
+scikit-learn
+  joblib
+  numpy
+  scipy
+    numpy
+  threadpoolctl
+sklearn
+tensorflow
+  tensorflow-intel
+    absl-py
+    astunparse
+      six
+      wheel
+    flatbuffers
+    gast
+    google-pasta
+      six
+    grpcio
+    h5py
+      numpy
+    jax
+      ml-dtypes
+        numpy
+        numpy
+      numpy
+      opt-einsum
+        numpy
+      scipy
+        numpy
+    keras
+    libclang
+    numpy
+    opt-einsum
+      numpy
+    packaging
+    protobuf
+    setuptools
+    six
+    tensorboard
+      absl-py
+      google-auth
+        cachetools
+        pyasn1-modules
+          pyasn1
+        rsa
+          pyasn1
+        six
+        urllib3
+      google-auth-oauthlib
+        google-auth
+          cachetools
+          pyasn1-modules
+            pyasn1
+          rsa
+            pyasn1
+          six
+          urllib3
+        requests-oauthlib
+          oauthlib
+          requests
+            certifi
+            charset-normalizer
+            idna
+            urllib3
+      grpcio
+      Markdown
+      numpy
+      protobuf
+      requests
+        certifi
+        charset-normalizer
+        idna
+        urllib3
+      setuptools
+      tensorboard-data-server
+      Werkzeug
+        MarkupSafe
+      wheel
+    tensorflow-estimator
+    tensorflow-io-gcs-filesystem
+    termcolor
+    typing_extensions
+    wrapt
+uvicorn
+  click
+    colorama
+  h11
+watchfiles
+  anyio
+    exceptiongroup
+    idna
+    sniffio
+websockets
