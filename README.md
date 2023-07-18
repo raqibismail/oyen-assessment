@@ -4,17 +4,23 @@
 
 Before running the code, make sure you have the following prerequisites installed:
 
+```bash
     pip install -r requirements.txt
+```
 
 Follow these steps to run the code:
 
 1. Start the backend server using `uvicorn`:
    
+```bash
    uvicorn main:app --reload
+```
 
-2. In a new terminal or command prompt, start the frontend server using http-server:
+2. In a new terminal or command prompt, start the frontend server using `http-server`:
     
+```bash
     npx http-server
+```
 
 3. Enter the username and password on the login page:
 
