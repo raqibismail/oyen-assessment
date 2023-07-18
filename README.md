@@ -35,6 +35,6 @@ Follow these steps to run the code:
 
 5. The SQLite database (database.db) contains a table called "login history" with the following columns:
 
-    username: Stores the username of the login.
-    datetime: Stores the date and time of the login.
-    accessToken: Stores the access token associated with the login.
+    - username: Stores the username of the login.
+    - datetime: Stores the date and time of the login.
+    - accessToken: Stores the access token associated with the login.
